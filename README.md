@@ -34,7 +34,7 @@ spatial_size = "128, 128, 128"
 intensity = "-42, 423"
 ```
 
--run run/segmentation.py.
+* run run/segmentation.py.
 ```bash
 python run/segmentation.py
 ```
