@@ -13,7 +13,7 @@ pip install -r requirements.txt
 * Find MONAILabel in the modules list, drag and drop it into the Favorite Modules area at the bottom, and click OK to save.
 * Click the MONAILabel icon on the toolbar to open the interface.
 
-### Parameter ConfigurationSet 
+### Parameter Configuration Set 
 * **Segmentation Target:** Open the \CardiacLabV2\run\segmentation.py file.
 * Modify the parameter on line 7 based on your needs:
     * `segmentation_cardiac` for Whole Heart Muscle.
